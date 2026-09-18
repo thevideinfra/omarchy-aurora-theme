@@ -4,7 +4,11 @@ A dark [Omarchy](https://omarchy.org) theme drawn from a photo of the northern l
 
 ![Aurora theme on a desktop with a terminal, btop and LazyVim](auroratheme.png)
 
-![Aurora wallpaper on the desktop](aurorawallpaper.png)
+![Aurora wallpaper: northern lights over a pine forest](backgrounds/1-aurora.jpg)
+
+![Omarchy logo in the accent green on the night background](backgrounds/omarchy.png)
+
+![Omarchy logo in a violet-to-green palette gradient](backgrounds/omarchy-spectrum.png)
 
 ![Palette](palette.png)
 
@@ -25,7 +29,7 @@ Or open **Install > Style > Theme** in the Omarchy menu and paste the URL.
 | Accent | `#59C98D` |
 | Selection | `#2A4A3E` |
 
-Two wallpapers ship in `backgrounds/`: the aurora photo, and the Omarchy logo in the accent green on the night background. Cycle between them with `omarchy theme bg next`.
+Three wallpapers ship in `backgrounds/`: the aurora photo, the Omarchy logo in the accent green, and the logo in a stepped gradient that runs through the palette from magenta to bright green. Cycle between them with `omarchy theme bg next`.
 
 Window borders use a green-to-violet gradient (`#59C98D` to `#B06BC4`). Terminal, editor and app colors are generated from `colors.toml`, so every app Omarchy themes picks up the palette.
 
