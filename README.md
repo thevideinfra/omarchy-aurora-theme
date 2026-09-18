@@ -2,6 +2,10 @@
 
 A dark [Omarchy](https://omarchy.org) theme drawn from a photo of the northern lights over a pine forest: a violet night sky, green and teal aurora, and pale starlight text.
 
+![Aurora theme on a desktop with a terminal, btop and LazyVim](auroratheme.png)
+
+![Aurora wallpaper on the desktop](aurorawallpaper.png)
+
 ![Palette](palette.png)
 
 ## Install
