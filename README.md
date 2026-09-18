@@ -25,6 +25,8 @@ Or open **Install > Style > Theme** in the Omarchy menu and paste the URL.
 | Accent | `#59C98D` |
 | Selection | `#2A4A3E` |
 
+Two wallpapers ship in `backgrounds/`: the aurora photo, and the Omarchy logo in the accent green on the night background. Cycle between them with `omarchy theme bg next`.
+
 Window borders use a green-to-violet gradient (`#59C98D` to `#B06BC4`). Terminal, editor and app colors are generated from `colors.toml`, so every app Omarchy themes picks up the palette.
 
 ## Credits
